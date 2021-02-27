@@ -135,6 +135,7 @@ app.post('/signup', (req, res) => {
         })
 });
 
+//LOGIN
 app.post('/login', (req, res) => {
     const user ={
         email: req.body.email,
