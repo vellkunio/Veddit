@@ -19,6 +19,14 @@ let db ={
             linkCount: 5,
             commentCount: 2
         }
+    ],
+    comments: [
+        {
+            userHandle: 'user',
+            screamId: 'kdjsfgdksuufhgkdsufky',
+            body: 'nice one mate!',
+            createdAt: '2011-10-05T14:48:00.000Z'
+        }
     ]
 };
 
